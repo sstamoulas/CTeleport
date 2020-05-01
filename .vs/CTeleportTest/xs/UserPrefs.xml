@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{8948198A-0C63-4F61-84B2-7E523DED7940}|Default">
+  <MonoDevelop.Ide.ItemProperties.CTeleportTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CTeleportTest/Repositories/GenericRepository.cs">
+    <Files>
+      <File FileName="CTeleportTest/Controllers/AirportsController.cs" Line="1" Column="1" />
+      <File FileName="CTeleportTest/Models/Airport.cs" />
+      <File FileName="CTeleportTest/Repositories/GenericRepository.cs" Line="6" Column="2" />
+      <File FileName="CTeleportTest/Repositories/IGenericRepository.cs" />
+      <File FileName="CTeleportTest/Services/AirportService.cs" />
+      <File FileName="CTeleportTest/Startup.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CTeleportTest" expanded="True">
+            <Node name="CTeleportTest" expanded="True">
+              <Node name="Repositories" expanded="True">
+                <Node name="GenericRepository.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

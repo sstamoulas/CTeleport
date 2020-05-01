@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/stamatiosstamoulas/Projects/CTeleportTest/CTeleportTest/CTeleportTest.csproj": {}
+  },
+  "projects": {
+    "/Users/stamatiosstamoulas/Projects/CTeleportTest/CTeleportTest/CTeleportTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/stamatiosstamoulas/Projects/CTeleportTest/CTeleportTest/CTeleportTest.csproj",
+        "projectName": "CTeleportTest",
+        "projectPath": "/Users/stamatiosstamoulas/Projects/CTeleportTest/CTeleportTest/CTeleportTest.csproj",
+        "packagesPath": "/Users/stamatiosstamoulas/.nuget/packages/",
+        "outputPath": "/Users/stamatiosstamoulas/Projects/CTeleportTest/CTeleportTest/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/stamatiosstamoulas/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "GeoCoordinate.NetCore": {
+              "target": "Package",
+              "version": "[1.0.0.1, )"
+            },
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

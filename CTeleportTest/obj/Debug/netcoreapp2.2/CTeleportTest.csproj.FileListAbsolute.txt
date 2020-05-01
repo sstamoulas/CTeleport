@@ -1,0 +1,14 @@
+/Users/stamatiosstamoulas/Projects/CTeleportTest/CTeleportTest/bin/Debug/netcoreapp2.2/CTeleportTest.deps.json
+/Users/stamatiosstamoulas/Projects/CTeleportTest/CTeleportTest/bin/Debug/netcoreapp2.2/CTeleportTest.runtimeconfig.json
+/Users/stamatiosstamoulas/Projects/CTeleportTest/CTeleportTest/bin/Debug/netcoreapp2.2/CTeleportTest.runtimeconfig.dev.json
+/Users/stamatiosstamoulas/Projects/CTeleportTest/CTeleportTest/bin/Debug/netcoreapp2.2/CTeleportTest.dll
+/Users/stamatiosstamoulas/Projects/CTeleportTest/CTeleportTest/bin/Debug/netcoreapp2.2/CTeleportTest.pdb
+/Users/stamatiosstamoulas/Projects/CTeleportTest/CTeleportTest/obj/Debug/netcoreapp2.2/CTeleportTest.csprojAssemblyReference.cache
+/Users/stamatiosstamoulas/Projects/CTeleportTest/CTeleportTest/obj/Debug/netcoreapp2.2/CTeleportTest.csproj.CoreCompileInputs.cache
+/Users/stamatiosstamoulas/Projects/CTeleportTest/CTeleportTest/obj/Debug/netcoreapp2.2/CTeleportTest.RazorAssemblyInfo.cache
+/Users/stamatiosstamoulas/Projects/CTeleportTest/CTeleportTest/obj/Debug/netcoreapp2.2/CTeleportTest.RazorAssemblyInfo.cs
+/Users/stamatiosstamoulas/Projects/CTeleportTest/CTeleportTest/obj/Debug/netcoreapp2.2/CTeleportTest.AssemblyInfoInputs.cache
+/Users/stamatiosstamoulas/Projects/CTeleportTest/CTeleportTest/obj/Debug/netcoreapp2.2/CTeleportTest.AssemblyInfo.cs
+/Users/stamatiosstamoulas/Projects/CTeleportTest/CTeleportTest/obj/Debug/netcoreapp2.2/CTeleportTest.RazorTargetAssemblyInfo.cache
+/Users/stamatiosstamoulas/Projects/CTeleportTest/CTeleportTest/obj/Debug/netcoreapp2.2/CTeleportTest.dll
+/Users/stamatiosstamoulas/Projects/CTeleportTest/CTeleportTest/obj/Debug/netcoreapp2.2/CTeleportTest.pdb
